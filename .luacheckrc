@@ -49,6 +49,8 @@ files["prototypes/**/*.lua"] = {
     "hour",
     "meter",
     "kilometer",
+    -- circuit-connector-sprites.lua
+    "combinator_circuit_wire_max_distance",
   },
 }
 
