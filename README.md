@@ -3,3 +3,7 @@
 # Heat Sensor Redux
 
 Adds a sensor that allows you to read the temperature of a heat pipe via circuit network.
+
+## Credits
+
+Based on the original [Heat Sensor](https://mods.factorio.com/mod/heat-sensor) by [AwesomeCronk](https://mods.factorio.com/user/AwesomeCronk).
