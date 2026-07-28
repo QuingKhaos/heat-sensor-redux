@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "heat-sensor-redux",
+  "title": "Heat Sensor Redux",
+  "description": "Adds a sensor that allows you to read the temperature of a heat pipe via circuit network.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
