@@ -4,16 +4,16 @@
   "description": "Adds a sensor that allows you to read the temperature of a heat pipe via circuit network.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
-  "factorio_version": "2.0",
+  "version": "2.0.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.77",
-    "? space-age >= 2.0.77",
+    "base >= 2.1.11",
+    "? space-age >= 2.1.11",
 
     "? khaos-advanced-settings",
-    "? khaoscircuitrygroup >= 1.0.0",
-    "khaosbash >= 1.2.0",
-    "khaoslib >= 1.18.0"
+    "+ khaoscircuitrygroup >= 2.0.1",
+    "khaosbash >= 2.1.0",
+    "khaoslib >= 2.1.0"
   ],
   "package": {
     "ignore": [
